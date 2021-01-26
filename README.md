@@ -285,8 +285,8 @@ Rutas:
 
 Transit:
 
-No existe una solución nativa para interconectar VPCs.
-VPC peering es lo más cercano.
+- No existe una solución nativa para interconectar VPCs.
+- VPC peering es lo más cercano.
 
 Cloud Interconnect (Conexión desde la nube hacia onPremise)
 
@@ -303,22 +303,17 @@ Créditos Documentación Original: Alizah Nauman Aviatrix Employee
 - Caja negra
 - Creación de un problema de soporte para tier-1 con IaaS
 - Falta de jerarquías en la nube para seguridad, control y visiblidad
-- Soporte Nivel 3 OnPremise se transforma en Sporte Nivel 1 en la nube necesitando soporte de ingenieros seniors de redes.
-- Problemas con el crecimiento de la solución, volviendo la resolución de problemas más compleja.
+- Soporte Nivel 3 OnPremise se transforma en Soporte Nivel 1 en la nube, necesitando soporte de ingenieros seniors de redes
+- Problemas con el crecimiento de la solución, volviendo la resolución de problemas más compleja
 
 ### ¿Cómo Aviatrix soluciona estos problemas?
 
-- Co-Pilot: Dashboard para Operaciones. (Disponibilida de Gateways, % de Gateways desplegados por nube, Visualización de Topología, )
-
-- Flow IQ: (Categoriza y Filtra el Tráfico, Gráfico para revisar problemas específicos, Visualización mediante geo-localización)
-
-- FlightPath: Resolución de Problemas mediante reportes.
-
-- Capturador de Paquetes.
-
-- Control de Acceso basado en Roles.
-
-- Multi Nube y Multi Cuenta.
+- Co-Pilot: Dashboard para Operaciones (Disponibilidad de Gateways, % de Gateways desplegados por nube, Visualización de Topología, entre otros)
+- Flow IQ: (Categoriza y filtra el tráfico, Gráfico para revisar problemas específicos, Visualización mediante geo-localización)
+- FlightPath: Resolución de Problemas mediante reportes
+- Capturador de Paquetes
+- Control de Acceso basado en Roles
+- Multi Nube y Multi Cuenta
 
 # 8) Funcionalidades de Aviatrix
 
@@ -378,7 +373,7 @@ R: Aviatrix es una plataforma multinube que permite la implementación de una ar
 
 R: DevOps
 
-#### ¿Cuándo ocurre un problema de red, los equipos de DevOps generalmente pueden corregirlo sin las necesidad de solicitar ayuda al equipo de redes?
+#### Cuándo ocurre un problema de red, ¿los equipos de DevOps generalmente pueden corregirlo sin las necesidad de solicitar ayuda al equipo de redes?
 
 R: Falso
 
