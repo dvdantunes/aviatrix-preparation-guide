@@ -2,7 +2,20 @@
 
 Guía de preparación en español para la certificación ACE de la solución Multicloud de Aviatrix
 
-# 1) Qué es Aviatrix
+# Contenido
+
+1. [¿Qué es Aviatrix?](#1qué-es-aviatrix)
+2. [Nube Pública y Redes 101](#2nube-pública-y-redes-101)
+3. [Nube Pública y Redes 102](#3nube-pública-y-redes-102)
+4. [AWS Networking 101](#4aws-networking-101)
+5. [Azure Networking 101](#5azure-networking-101)
+6. [GCP Networking 101](#6gcp-networking-101)
+7. [Operaciones, Visibilidad y Resolución de Problemas en la Nube Pública](#7operaciones-visibilidad-y-resolución-de-problemas-en-la-nube-pública)
+8. [Funcionalidades de Aviatrix](#8funcionalidades-de-aviatrix)
+9. [BONUS) Preguntas y Respuestas del Curso de Preparación Aviatrix ACE](#bonuspreguntas-y-respuestas-del-curso-de-preparación-aviatrix-ace-no-son-las-preguntas-del-examen)
+
+
+# 1) ¿Qué es Aviatrix?
 
 Apuntes tomados desde la documentación de Aviatrix: https://community.aviatrix.com/t/h7h3sta
 
@@ -83,7 +96,7 @@ Aviatrix permite manejar dominios de seguridad diferente tanto para ambientes de
 Además Aviatrix permite la extención del servicio de AWS GuardDuty con el fin de tomar acción proactiva de amenazas de seguridad a nivel de VPC.
 
 
-# 2) Nube Pública y Redes
+# 2) Nube Pública y Redes 101
 
 Apuntes tomados desde la documentación de Aviatrix: https://community.aviatrix.com/t/q6hx19y/an-introduction-to-the-public-cloud-and-public-cloud-networking
 
@@ -114,7 +127,7 @@ Los Datacenters se agrupan en regiones para entregar disponibilidad de servicio.
 Distintas ubicaciones de red separadas de forma que una falla evite la caida de otra zona.
 
 
-# 3) Nube Pública y Redes
+# 3) Nube Pública y Redes 102
 
 Apuntes tomados desde la documentación de Aviatrix: https://community.aviatrix.com/t/x2hxjdv/public-cloud-networking
 
