@@ -296,7 +296,7 @@ Apuntes tomados desde la documentación de Aviatrix: https://community.aviatrix.
 
 Créditos Documentación Original: Alizah Nauman Aviatrix Employee
 
-### Desafíos enfrentados en la nube pública
+### Desafíos enfrentados en la nube pública
 
 - Data de evidencia
 - Herramientas no familiares como ping, capturador de paquetes y trace route
