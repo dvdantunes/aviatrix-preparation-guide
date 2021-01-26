@@ -12,7 +12,7 @@ Guía de preparación en español para la certificación ACE de la solución Mul
 6. [GCP Networking 101](#6gcp-networking-101)
 7. [Operaciones, Visibilidad y Resolución de Problemas en la Nube Pública](#7operaciones-visibilidad-y-resolución-de-problemas-en-la-nube-pública)
 8. [Funcionalidades de Aviatrix](#8funcionalidades-de-aviatrix)
-9. [BONUS) Preguntas y Respuestas del Curso de Preparación Aviatrix ACE](#bonuspreguntas-y-respuestas-del-curso-de-preparación-aviatrix-ace-no-son-las-preguntas-del-examen)
+9. [BONUS - Preguntas y Respuestas del Curso de Preparación Aviatrix ACE](#bonuspreguntas-y-respuestas-del-curso-de-preparación-aviatrix-ace-no-son-las-preguntas-del-examen)
 
 
 # 1) ¿Qué es Aviatrix?
