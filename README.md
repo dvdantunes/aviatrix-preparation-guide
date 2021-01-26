@@ -312,13 +312,13 @@ Créditos Documentación Original: Alizah Nauman Aviatrix Employee
 
 - Flow IQ: (Categoriza y Filtra el Tráfico, Gráfico para revisar problemas específicos, Visualización mediante geo-localización)
 
-- FlighPath: Resolución de Problemas mediante reportes.
+- FlightPath: Resolución de Problemas mediante reportes.
 
--Capturador de Paquetes.
+- Capturador de Paquetes.
 
 - Control de Acceso basado en Roles.
 
--Multi Nube y Multi Cuenta.
+- Multi Nube y Multi Cuenta.
 
 # 8) Funcionalidades de Aviatrix
 
