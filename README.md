@@ -1,6 +1,6 @@
-# aviatrix-preparation-guide
+# Aviatrix Preparation Guide
 
-Guía de preparación en español para la certificación ACE de la solución Multicloud de Aviatrix
+Guía de preparación en español para la [certificación ACE](https://aviatrix.com/ace/) de la solución Multicloud de [Aviatrix](https://aviatrix.com/)
 
 # Contenido
 
